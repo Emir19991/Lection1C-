@@ -1,0 +1,15 @@
+E:\GeekB\1lec\Lection1C-\Example001_Hellowolrd\bin\Debug\net7.0\Example001_Hellowolrd.exe
+E:\GeekB\1lec\Lection1C-\Example001_Hellowolrd\bin\Debug\net7.0\Example001_Hellowolrd.deps.json
+E:\GeekB\1lec\Lection1C-\Example001_Hellowolrd\bin\Debug\net7.0\Example001_Hellowolrd.runtimeconfig.json
+E:\GeekB\1lec\Lection1C-\Example001_Hellowolrd\bin\Debug\net7.0\Example001_Hellowolrd.dll
+E:\GeekB\1lec\Lection1C-\Example001_Hellowolrd\bin\Debug\net7.0\Example001_Hellowolrd.pdb
+E:\GeekB\1lec\Lection1C-\Example001_Hellowolrd\obj\Debug\net7.0\Example001_Hellowolrd.csproj.AssemblyReference.cache
+E:\GeekB\1lec\Lection1C-\Example001_Hellowolrd\obj\Debug\net7.0\Example001_Hellowolrd.GeneratedMSBuildEditorConfig.editorconfig
+E:\GeekB\1lec\Lection1C-\Example001_Hellowolrd\obj\Debug\net7.0\Example001_Hellowolrd.AssemblyInfoInputs.cache
+E:\GeekB\1lec\Lection1C-\Example001_Hellowolrd\obj\Debug\net7.0\Example001_Hellowolrd.AssemblyInfo.cs
+E:\GeekB\1lec\Lection1C-\Example001_Hellowolrd\obj\Debug\net7.0\Example001_Hellowolrd.csproj.CoreCompileInputs.cache
+E:\GeekB\1lec\Lection1C-\Example001_Hellowolrd\obj\Debug\net7.0\Example001_Hellowolrd.dll
+E:\GeekB\1lec\Lection1C-\Example001_Hellowolrd\obj\Debug\net7.0\refint\Example001_Hellowolrd.dll
+E:\GeekB\1lec\Lection1C-\Example001_Hellowolrd\obj\Debug\net7.0\Example001_Hellowolrd.pdb
+E:\GeekB\1lec\Lection1C-\Example001_Hellowolrd\obj\Debug\net7.0\Example001_Hellowolrd.genruntimeconfig.cache
+E:\GeekB\1lec\Lection1C-\Example001_Hellowolrd\obj\Debug\net7.0\ref\Example001_Hellowolrd.dll
